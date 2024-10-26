@@ -45,7 +45,7 @@ Apaixonado por resolver problemas complexos e criar soluções inovadoras. Atual
 
 <a href="https://www.linkedin.com/in/jonadableite/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:jonadab.leite@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40" /></a>
-<a href="https://wa.me/seu_numero_de_telefone" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="40" /></a>
+<a href="https://wa.me/+5512992465180" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" width="40" /></a>
 
 
 ![Jonadab's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonadableite&theme=blue-green)
