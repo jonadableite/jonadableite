@@ -15,7 +15,7 @@ Apaixonado por resolver problemas complexos e criar soluções inovadoras. Atual
 ### Minhas Experiências
 
 - 🛠️ Desenvolvi uma plataforma de automações para vendas online, otimizando campanhas de marketing digital e aumentando as conversões em 30%.
-- 📚 Estudante de Tecnologia em Inteligência Artificial na [Nome da Instituição], RGM: 41619463.
+- 📚 Estudante de Tecnologia em Inteligência Artificial na Cruzeiro do Sul, RGM: 41619463.
 - 📜 Completei cursos como Full Stack PRO, DevClub Elite, DataClub e Analista de Dados pela Hashtag Treinamentos.
 
 ---
